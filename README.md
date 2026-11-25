@@ -6,15 +6,12 @@ three LFOs locked to the host's tempo, an eight-slot modulation matrix, and four
 whole in an order you arrange. A VST3, an Audio Unit on macOS and a standalone app, for Windows, macOS and Linux.
 Free to use.
 
-**No release has been cut yet.** The download table lands here with the first one. Until then there is nothing to
-install, and the links below do not resolve.
-
 | | | |
 |---|---|---|
-| macOS 13.3 (Ventura) or later, Apple silicon or Intel | `reckless-polysynth-macos.pkg` | signed and notarized installer |
-| Windows 10 or 11, 64-bit | `reckless-polysynth-win64-setup.exe` | signed installer |
-| Linux x64: Debian, Ubuntu, Mint | `reckless-polysynth-linux-amd64.deb` | `sudo apt install ./reckless-polysynth-linux-amd64.deb` |
-| Linux x64, any distribution with glibc 2.38 | `reckless-polysynth-linux-x64.zip` | the VST3 and app to copy by hand |
+| macOS 13.3 (Ventura) or later, Apple silicon or Intel | [reckless-polysynth-macos.pkg](https://github.com/reckless-technology/polysynth-releases/releases/latest/download/reckless-polysynth-macos.pkg) | signed and notarized installer |
+| Windows 10 or 11, 64-bit | [reckless-polysynth-win64-setup.exe](https://github.com/reckless-technology/polysynth-releases/releases/latest/download/reckless-polysynth-win64-setup.exe) | signed installer |
+| Linux x64: Debian, Ubuntu, Mint | [reckless-polysynth-linux-amd64.deb](https://github.com/reckless-technology/polysynth-releases/releases/latest/download/reckless-polysynth-linux-amd64.deb) | `sudo apt install ./reckless-polysynth-linux-amd64.deb` |
+| Linux x64, any distribution with glibc 2.38 | [reckless-polysynth-linux-x64.zip](https://github.com/reckless-technology/polysynth-releases/releases/latest/download/reckless-polysynth-linux-x64.zip) | the VST3 and app to copy by hand |
 
 Every release is listed under [Releases](https://github.com/reckless-technology/polysynth-releases/releases) with its
 notes and `SHA256SUMS`, each file's checksum. The download page, the user guide and the news are at
